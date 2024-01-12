@@ -1,6 +1,6 @@
 # OnlineShopping
 
-Online Shopping is a UI WebPage which has been developed using React Framework .
+Online Shopping is a UI WebApp which has been developed using React Framework and Dummy API's .
 
 # npm start
 Runs the app in the development mode.
